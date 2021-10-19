@@ -15,7 +15,7 @@
     "url": "git+https://github.com/openedx/openedx-tech-radar.git"
   },
   "author": "edX",
-  "license": "MIT",
+  "license": "GPL3",
   "bugs": {
     "url": "https://github.com/openedx/openedx-tech-radar/issues"
   },
