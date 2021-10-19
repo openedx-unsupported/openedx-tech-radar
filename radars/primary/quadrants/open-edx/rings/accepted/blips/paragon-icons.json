@@ -1,0 +1,7 @@
+{
+  "name": "Paragon icons",
+  "ring": "Accepted",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "Blip: Paragon contains a library of SVG icons for use in frontends, based on MUI icons.  We prefer the use of these icons over font-awesome or other icon libraries, and are actively investing in adding icons for all of our use cases.  We originally created this library because font-awesome didn't have some icons we needed, and have since started switching over to it for consistency and to keep our bundle sizes down."
+}

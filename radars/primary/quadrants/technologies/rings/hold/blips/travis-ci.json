@@ -1,0 +1,7 @@
+{
+  "name": "Travis CI",
+  "ring": "Hold",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A continuous integration system previously popular for automated tests of open source projects.  It is now less actively maintained and has worse terms of service after being acquired by another company, so Open edX is now actively switching to Blip: GitHub Actions instead."
+}

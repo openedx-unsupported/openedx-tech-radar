@@ -1,0 +1,7 @@
+{
+  "name": "Redis",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A high-performance key-value store. Open edX uses it by default as a Blip: celery broker, and has considered switching to it from Blip: memcached as a cache server (as it would remove a distinct service from the architecture and allow the cache to persist through process restarts)."
+}

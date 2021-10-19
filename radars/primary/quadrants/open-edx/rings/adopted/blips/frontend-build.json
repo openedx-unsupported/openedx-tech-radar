@@ -1,0 +1,7 @@
+{
+  "name": "frontend-build",
+  "ring": "Adopted",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "<a href=\"https://github.com/edx/frontend-build\">frontend-build</a> is a library of build tools and configurations for our micro-frontends.  It contains webpack, babel, eslint, and Jest configurations, as well as scripts used by our micro-frontends to take advantage of them.  It is our standard for all micro-frontend building. "
+}

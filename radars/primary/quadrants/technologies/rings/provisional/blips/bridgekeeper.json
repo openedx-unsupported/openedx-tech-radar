@@ -1,0 +1,7 @@
+{
+  "name": "bridgekeeper",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A full-featured implementation of object-scoped rule-based authorization in Django (e.g., \"does this user have characteristics which allows them to perform this kind of action on this database record?\").  See <a href=\"https://open-edx-proposals.readthedocs.io/en/latest/oep-0009-bp-permissions.html\">OEP-9</a> for more details."
+}

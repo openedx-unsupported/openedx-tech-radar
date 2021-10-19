@@ -1,0 +1,7 @@
+{
+  "name": "Jenkins",
+  "ring": "Hold",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A usually self-hosted automation server, often used for continuous integration or recurring scheduled tasks.  Very flexible but somewhat difficult to maintain; edX.org is actively trying to reduce the number of things they use it for."
+}

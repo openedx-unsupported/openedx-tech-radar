@@ -1,0 +1,7 @@
+{
+  "name": "black",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://black.readthedocs.io/\">black</a> is a Python code formatter. It offers very few customization options (\"You can have any color you want, as long as it is black\").  Its goal is to standardize formatting, leaving developers to focus on more important concerns.  Black is widely adopted across the Python world.  Its lack of customization ensures consistent formatting with no bickering over details.  Open edX doesn't yet use black much.  Initial adoption requires a massive commit that reformats all files. This interferes with historical analysis of the code (git blame), and so can be controversial, and will also require rebasing all in-flight pull requests."
+}

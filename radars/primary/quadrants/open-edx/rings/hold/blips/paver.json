@@ -1,0 +1,7 @@
+{
+  "name": "paver",
+  "ring": "Hold",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "A Python package providing a framework for implementing command-line tasks using Python code.  Within Open edX it is only used by edx-platform, and the possibility of switching that to an alternative framwork is periodically considered."
+}

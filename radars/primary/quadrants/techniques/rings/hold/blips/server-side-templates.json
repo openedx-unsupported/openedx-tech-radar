@@ -1,0 +1,7 @@
+{
+  "name": "Server side templates",
+  "ring": "Hold",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Server-side templates are a technique used to render HTML on the server and then serve it to the client as part of the initial page load.  In our ecosystem, it is most commonly done via Django templates in our \"legacy\" frontend systems.  It is not done in any micro-frontends, in favor of using React and client-side rendering to generate as much of the page as possible.\n\nWe're moving away from using server side templates as part of the micro-frontend replatforming.  They tightly couple frontend rendering to backend code and DB queries, and when not used mindfully, blur API boundaries of both the frontend and backend, reducing the overall extensibility of the platform."
+}

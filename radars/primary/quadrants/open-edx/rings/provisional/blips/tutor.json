@@ -1,0 +1,7 @@
+{
+  "name": "Tutor",
+  "ring": "Provisional",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "A Blip: Docker based development and deployment environment for Open edX.  Already an officially supported deployment option, it is likely to become the official development environment also in the near future (replacing Blip: devstack)."
+}

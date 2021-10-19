@@ -1,0 +1,7 @@
+{
+  "name": "enzyme",
+  "ring": "Accepted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "React component testing library with a particular focus on snapshots and class components.\nWe use this in some MFEs for React unit testing.  Our recommendation is to move away from using enzyme for component testing, and suggest using Blip: testing-library instead.  Enzyme has a more complex set of testing primitives than testing-library, (subjectively) making it a bit harder to reason with. Blip: testing-library has a simpler API, promotes standard ways of querying the DOM, and helps us keep our code accessible by encouraging a11y/ARIA-based querying for writing expectations/assertions."
+}

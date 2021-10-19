@@ -1,0 +1,7 @@
+{
+  "name": "Synchronous signal handling (Django signals)",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "An in-process publish/subscribe framework built into Django.  Basically a lighteight eventing system useful when the event handlers are local and finish quickly.  Open edX uses these extensively in many of its services and packages."
+}

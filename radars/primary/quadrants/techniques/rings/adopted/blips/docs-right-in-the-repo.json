@@ -1,0 +1,7 @@
+{
+  "name": "Docs right in the repo",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Whenver possible documentation should be localized to the thing it is describing.  This helps both with discovery of the documentation by readers but also helps ease the burden of documentation maintenance since writers can update the documentation alongside the code that it describes.  See <a href=\"https://open-edx-proposals.readthedocs.io/en/latest/oep-0019-bp-developer-documentation.html\">OEP-19</a> for more details."
+}

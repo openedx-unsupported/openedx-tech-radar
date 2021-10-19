@@ -1,0 +1,7 @@
+{
+  "name": "Experimenting and A/B testing with django waffle experiment flag",
+  "ring": "Provisional",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Experiments are intentionally developed very quickly with fewer quality controls since it as assumed that most will be unsuccessful and will later be removed. It is common that some courses will want to \"opt-out\" of particular experiments. The <a href=\"https://openedx.atlassian.net/wiki/spaces/AC/pages/1250623700/Bucketing+users+for+an+experiment\">ExperimentWaffleFlag</a> provides a fast kill-switch for experiments as well as standardizing a process for excluding courses from experiments that would otherwise have been included. These tools enable re-use of experiment-related analytical tools since they standardize the data emitted by the experiment. Lastly, these tools make it simple to keep track of all experiments that have not yet been rolled out or removed by simply searching for usages of this type of feature flag."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openapi",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A specification for describing web APIs, derived from Blip: Swagger.  Some of the Open edX API documentation follows this specification."
+}

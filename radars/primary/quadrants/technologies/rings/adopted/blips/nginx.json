@@ -1,0 +1,7 @@
+{
+  "name": "nginx",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://www.nginx.com/\">Nginx</a> is a web server that is used both for serving static assets and as a reverse proxy for Django services running in gunicorn. It is used primarily for performance reasons. Nginx buffers requests to these services so that slow clients cannot tie down workers. It also has more efficient static file handling than Open edX's Python stack."
+}

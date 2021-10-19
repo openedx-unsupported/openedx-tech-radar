@@ -1,0 +1,7 @@
+{
+  "name": "Read The Docs",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://readthedocs.org\">Read The Docs</a> is a web service offering hosting for documentation. Open edX uses it to publish Blip: ReStructured Text documentation."
+}

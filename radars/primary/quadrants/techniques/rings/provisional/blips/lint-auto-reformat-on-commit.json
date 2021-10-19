@@ -1,0 +1,7 @@
+{
+  "name": "Lint / Auto reformat on commit",
+  "ring": "Provisional",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Using a local commit hook to run a tool (such as black) to automatically reformat source code before the commit completes, which saves time vs having a CI check that tells a developer that there's a problem with their formatting and they need to go run the tool themselves and make a new commit.  Some individual Open edX developers may be doing this, but it hasn't yet been adopted as a standard practice."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "node.js",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A JavaScript execution environment that can be used from the command line.  Often used to implement web services, Open edX primarily uses it for industry-standard tooling to build and test frontend JavaScript code and optimize static assets for deployment.  We do not use Node to write micro-services."
+}

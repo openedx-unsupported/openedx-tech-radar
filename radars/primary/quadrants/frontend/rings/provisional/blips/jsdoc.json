@@ -1,0 +1,7 @@
+{
+  "name": "JSDoc",
+  "ring": "Provisional",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "JSDoc is a JavaScript documentation tool and standard for writing docstrings for modules, objects, and functions.  Some of our libraries model their documentation structure on JSDoc.  Notably, Blip: frontend-platform generates its documentation site with JSDoc. Investigation hasn't found any other reasonable tools for JavaScript code comments."
+}

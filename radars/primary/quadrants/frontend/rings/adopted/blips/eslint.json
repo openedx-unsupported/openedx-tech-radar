@@ -1,0 +1,7 @@
+{
+  "name": "eslint",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "es-lint is a linting utility for modern (ES6) Javascript.  Integratable with editors, version control, and build processes.  This is our core/default JS style checker for our modern JS projects and should be our standard across all frontends.  We have a common eslint config in the @edx/eslint-config package.  This config is imported into @edx/frontend-build and made available to all our micro-frontends."
+}

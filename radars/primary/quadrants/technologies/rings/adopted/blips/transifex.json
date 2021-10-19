@@ -1,0 +1,7 @@
+{
+  "name": "Transifex",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://www.transifex.com/open-edx/edx-platform/\">Transifex</a> is a crowd-sourced translations platform used by Open edX to facilitate translating platform text from English to a variety of other languages. At this time, Transifex is not used for translating course content or technical documentation."
+}

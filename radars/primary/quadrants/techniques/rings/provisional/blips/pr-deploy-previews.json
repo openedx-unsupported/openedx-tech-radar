@@ -1,0 +1,7 @@
+{
+  "name": "PR deploy previews",
+  "ring": "Provisional",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "PR deploy previews are a way of improving our CI/CD pipeline by allowing us to share and see our code running in an environment prior to merge into main.  We primarily use this in Blip: Paragon today, but its a technique we'd like to expand to micro-frontends in general.  On each commit of a component library or micro-frontend, we would build and deploy a preview of the changes made in the commit / PR, and keep this deploy preview up-to-date on successive commits within the same PR. "
+}

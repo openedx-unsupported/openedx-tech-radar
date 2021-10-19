@@ -1,0 +1,7 @@
+{
+  "name": "redux-thunk",
+  "ring": "Accepted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "A simple Redux middleware that helps standardize how a frontend application handles side effects and asynchronous tasks.  It enables complex data actions to be grouped and gives us a consistent, reusable, predictable place to make API calls outside the React component hierarchy itself.  redux-thunk is used widely in our micro-frontends, and has proven itself to be much more approachable than other tools like redux-saga."
+}

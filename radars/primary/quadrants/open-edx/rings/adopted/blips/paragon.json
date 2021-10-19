@@ -1,0 +1,7 @@
+{
+  "name": "Paragon",
+  "ring": "Adopted",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "<a href=\"https://github.com/edx/paragon\">Paragon</a> is the design system and component library for Open edX frontends.  It provides a stylesheet built on Blip: Bootstrap, as well as a wide variety of Blip: React components for use in our frontends.  We're actively investing in its further development, and encourage teams to think about contributing as they create new components in our applications."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "django-rules",
+  "ring": "Hold",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "An early implementation of object-scoped rule-based authorization in Django (e.g., \"does this user have characteristics which allows them to perform this kind of action on this database record?\"). Blip: bridgekeeper is a newer implementation with more features that we have started switching to."
+}

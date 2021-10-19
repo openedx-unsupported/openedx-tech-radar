@@ -1,0 +1,7 @@
+{
+  "name": "React",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "React is a powerful JavaScript library for creating user interfaces, allowing you to compose complex UIs from small and isolated/re-usable pieces of code called \"components\".\nThis is the core UI framework for all MFE UI development today in the Open edX ecosystem."
+}

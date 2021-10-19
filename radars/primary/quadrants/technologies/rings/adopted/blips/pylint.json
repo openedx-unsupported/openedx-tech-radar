@@ -1,0 +1,7 @@
+{
+  "name": "pylint",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://www.pylint.org/\">pylint</a> is the most full-featured standalone Python linting tool. Open edX uses it to catch common errors and style violations in Python code. This frees people to focus their code reviews on more substantive concerns."
+}

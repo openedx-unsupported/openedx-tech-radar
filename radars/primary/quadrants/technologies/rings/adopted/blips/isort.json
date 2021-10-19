@@ -1,0 +1,7 @@
+{
+  "name": "isort",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A linting utility which can report violations of an established set of rules for sorting Python code imports, and optionally fix them automaticaly. Used in continuous integration for many Open edX repositories."
+}

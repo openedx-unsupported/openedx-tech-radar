@@ -1,0 +1,7 @@
+{
+  "name": "Redux",
+  "ring": "Accepted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Redux is a powerful state management library used in many of our micro-frontends.  We recommend using it with the redux-toolkit library, which simplifies the implementation and reduces the amount of boilerplate needed to use Redux.  Some micro-frontends choose not to use Redux; they opt for simpler state management mechanisms available in React itself, such as component state and prop passing, as well as React context.  When to use Redux is a frequent topic of debate. In many cases where a reducer pattern is useful, using Redux and redux-toolkit rather than hand-coding reducers for the `useReducer` hook can - again - reduce boilerplate and help ensure the code follows best practices and is approachable.  "
+}

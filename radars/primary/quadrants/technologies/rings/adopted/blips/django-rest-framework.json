@@ -1,0 +1,7 @@
+{
+  "name": "Django REST Framework",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://www.django-rest-framework.org/\">DRF</a> is the most commonly used library for creating REST APIs with Django. Most of our REST APIs have been built using this. We have some older endpoints that accept form posts (e.g. /events) and some REST-like behavior that is manually coded (XBlocks handlers), but we strongly recommend using DRF because of the expertise and tooling we've developed around it."
+}

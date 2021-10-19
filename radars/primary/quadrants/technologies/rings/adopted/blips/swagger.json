@@ -1,0 +1,7 @@
+{
+  "name": "Swagger",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A tool for generating HTML documentation for web APIs.  Used in some Open edX repositories to document the APIs they expose to web front ends, mobile applications, and automation scripts."
+}

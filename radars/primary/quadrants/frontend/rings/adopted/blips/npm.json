@@ -1,0 +1,7 @@
+{
+  "name": "npm",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "<a href=\"https://docs.npmjs.com/about-npm\">Node Package Manager</a> is an industry standard JavaScript package manager that we use to manage all of the dependencies we use in our frontend applications and libraries.  This is a core part of our JavaScript build infrastructure for all projects.  We do not use yarn - an alternative - today."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "celery",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A technology for asynchronously performing background tasks in Python.  By moving non urgent tasks to celery workers we reduce the load on our application servers and speed up response times to the end users."
+}

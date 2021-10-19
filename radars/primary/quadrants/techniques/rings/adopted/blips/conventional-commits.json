@@ -1,0 +1,7 @@
+{
+  "name": "Conventional Commits",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "<a href=\"https://www.conventionalcommits.org/en/v1.0.0/\">Conventional Commits</a> is a\nset of guidelines for writing git commit messages.  Our standard for using conventional commits\nis <a href=\"https://open-edx-proposals.readthedocs.io/en/latest/oep-0051-bp-conventional-commits.html\">OEP-51, Conventional Commits</a>.\nConventional commits guide the author to indicate the broad category of change, and its implications.\nUsing conventional commits helps readers and adopters of the code to understand how it is changing.\nConventional commits are not currently required, but are <i>strongly</i> encouraged."
+}

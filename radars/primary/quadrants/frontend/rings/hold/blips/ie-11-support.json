@@ -1,0 +1,7 @@
+{
+  "name": "IE 11 support",
+  "ring": "Hold",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "We continue to support IE 11 in the near term because edx.org and edX for Business continues to have a number of partners and customers which depend on the browser.  We are actively working with partners to cut over to more modern browsers so we can drop support.  Doing so will allow us to simplify build processes (e.g., transpile less code) and use more modern browser features.  The industry is quickly moving away from IE11, as Microsoft itself has signaled their intention to stop supporting it in Microsoft 365 applications in 2021 and officially dropping support for IE11 in Windows 10 in June 2022."
+}

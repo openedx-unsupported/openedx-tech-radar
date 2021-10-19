@@ -1,0 +1,7 @@
+{
+  "name": "edx-ace",
+  "ring": "Provisional",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "<a href=\"https://edx-ace.readthedocs.io/en/latest/index.html#\">The Automated Communication Engine</a>, <i>ACE</i> for short, is a Django app for messaging learners on the Open edX platform. This app can be installed in any django application, but has only been tested with edx-platform. It is intended to leverage all of the information available in the host system to personalize the communication to learners, including, but not limited to, the timing of the communication and the language of the message. It reuses existing technologies like Django templates overrides and translation automation to simplify the personalization of messages for different contexts such as different site configurations. edX.org has recently migrated much of this functionality to a third-party tool (Braze)."
+}

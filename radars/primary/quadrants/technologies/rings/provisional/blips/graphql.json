@@ -1,0 +1,7 @@
+{
+  "name": "GraphQL",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://graphql.org/\">GraphQL</a> is both: <ol><li>a query language for APIs</li><li>a runtime for fulfilling those queries with your existing data</li></ol>GraphQL allows an API caller to specify the exact data they need returned and organizes an API by types/fields instead of endpoints. New types/fields can be added without a new API version. GraphQL is designed to build APIs that are more flexible than a fixed list of REST endpoints. The Open edX platform currently uses REST API endpoints instead of GraphQL."
+}

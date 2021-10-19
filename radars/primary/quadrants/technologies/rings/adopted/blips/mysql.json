@@ -1,0 +1,7 @@
+{
+  "name": "MySQL",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://www.mysql.com/\">MySQL</a> is Open edX's primary transactional SQL database. Though the Django ORM insulates developers from most of the details, Open edX schemas and practices have been tweaked to accomodate the operational characteristics of this database at scale over the years. The most common database for Django is Blip: PostgreSQL."
+}

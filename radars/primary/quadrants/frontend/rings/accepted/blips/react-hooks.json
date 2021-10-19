@@ -1,0 +1,7 @@
+{
+  "name": "React hooks",
+  "ring": "Accepted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "React Hooks are pure JavaScript components written explicitly in functional React components that allow you to access React state and life cycle features from functional components and provide the option to move away from writing classes. Hooks make it easy to extract and reuse stateful logic across components.<br/><br/>\n\nThis technique is used in much of our React micro-frontend code.  We have found that functional React components with hooks work well for the vast majority of our use cases; however, particularly complex components with event handlers and state management logic sometimes benefit from being written as a class component."
+}

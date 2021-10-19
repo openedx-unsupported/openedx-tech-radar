@@ -1,0 +1,7 @@
+{
+  "name": "Pact",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A framework for consumer-based contract testing, which helps prevent inadvertent breaking changes to actively used web APIs (without requiring slow and difficult to maintain browser automation tests).  Usage for Open edX has been discussed for years, and an implementation is now being piloted by an edX.org squad."
+}

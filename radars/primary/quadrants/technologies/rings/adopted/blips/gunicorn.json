@@ -1,0 +1,7 @@
+{
+  "name": "gunicorn",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://gunicorn.org/\">Gunicorn</a> is a Python WSGI (Web Server Gateway Interface – a standard Python interface for web apps/frameworks) HTTP server. Open edX uses this to run Django services in production environments. If we start using async views and channels in our Django services, we will need to adopt an ASGI (Asynchronous Server Gateway Interface) server like daphne or uvicorn."
+}

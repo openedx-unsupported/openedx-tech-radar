@@ -1,0 +1,7 @@
+{
+  "name": "Consumer-based API contract testing",
+  "ring": "Provisional",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "<a href=\"https://martinfowler.com/articles/consumerDrivenContracts.html\">Consumer-driven contracts</a> are an essential part of a mature microservice testing portfolio, enabling independent service deployments. When two independently developed services are collaborating, changes to the supplier’s API can cause failures for its consumers. Consuming services usually cannot test against live suppliers since such tests are slow and brittle. Consumer teams can protect themselves from these failures by providing their own tests to the supplier, who can then run all their consumers’ contract tests to determine if their changes are likely to cause problems."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nosql",
+  "ring": "Hold",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://www.mongodb.com/nosql-explained\">NoSQL</a> is a type of database that stores and retrieves data without needing to define its structure (schema) first. This type of database is an alternative to the more rigid relational database, which can be queried using SQL but needs a rigid schema of tables and fields defined before storing data. Open edX uses Blip: MongoDB as a noSQL database to store JSON documents describing course content and forum threads/comments."
+}

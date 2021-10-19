@@ -1,0 +1,7 @@
+{
+  "name": "Module federation",
+  "ring": "Provisional",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Module federation is a technique allowing us to share JavaScript modules across independently deployed micro-frontends.  While we are not using it today, we believe it can help us firm up our domain boundaries, allow teams to work more independently, and reduce bundle sizes by sharing common modules used by multiple MFEs.  It comes with some complexity around versioning of shared dependencies, however, which has prevented us from moving forward with adoption.  Because it has no ability to establish a security sandbox around code loaded from outside our trust domain, it has limited utility for extensibility.  Supporting module federation in MFEs is not currently scheduled on our roadmap."
+}

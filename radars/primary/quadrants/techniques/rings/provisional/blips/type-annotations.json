@@ -1,0 +1,7 @@
+{
+  "name": "Type annotations",
+  "ring": "Provisional",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Optional metadata for the types of Python function arguments and return values, which can be used to gain many of the benefits of static type checking.  We're currently only using this in 3 Open edX repositories, but would like to start using it more extensively.  Here is the relevant <a href=\"https://github.com/search?q=mypy+repo%3Aedx%2Fblockstore+repo%3Aedx%2Fedx-platform+repo%3Aedx%2Fopenedx-webhooks&type=Code&ref=advsearch&l=&l=\">mypy configuration and usage</a>."
+}

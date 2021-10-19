@@ -1,0 +1,7 @@
+{
+  "name": "Elasticsearch",
+  "ring": "Accepted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A full-text search engine used for search functionality in several Open edX services.  Recently the subject of a licensing spat between the developers and Amazon, it is currently still the market-dominant open source search engine.  Open edX primarily uses the latest version compatible with Amazon's hosted offering, although edx.org doesn't currently utilize that offering."
+}

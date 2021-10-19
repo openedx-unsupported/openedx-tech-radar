@@ -1,0 +1,7 @@
+{
+  "name": "Ansible",
+  "ring": "Hold",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "An infrastructure orchestration tool used to build stage and production application servers from scratch.  This technology is being replaced with Docker images in newer services so it no longer has code to build all Open edX services.  The Ansible code can be found in the <a href=\"https://github.com/edx/configuration\">Configuration</a> repository."
+}

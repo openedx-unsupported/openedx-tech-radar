@@ -1,0 +1,7 @@
+{
+  "name": "Test driven development",
+  "ring": "Provisional",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Writing test cases for changes in the software's behavior before writing the code that implements those changes.  It can help clarify thinking about how the software should work before getting lost in implementation details.  We rarely do exactly this for Open edX, but we usually require relevant tests to be present before changes can be merged."
+}

@@ -1,0 +1,31 @@
+{
+  "name": "openedx-tech-radar",
+  "version": "1.0.0",
+  "description": "The Open edX Platform's Tech Radar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "import": "node scripts/import.js",
+    "export": "node scripts/export.js",
+    "build": "node scripts/build.js && node scripts/export.js",
+    "lint": "eslint --ext .js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openedx/openedx-tech-radar.git"
+  },
+  "author": "edX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openedx/openedx-tech-radar/issues"
+  },
+  "homepage": "https://github.com/openedx/openedx-tech-radar#readme",
+  "dependencies": {
+    "command-line-args": "^5.2.0",
+    "json-2-csv": "^3.14.4",
+    "slugify": "^1.6.1"
+  },
+  "devDependencies": {
+    "@edx/frontend-build": "^8.0.5"
+  }
+}

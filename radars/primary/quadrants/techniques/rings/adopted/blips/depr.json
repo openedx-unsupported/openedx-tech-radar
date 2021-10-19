@@ -1,0 +1,7 @@
+{
+  "name": "DEPR",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "<i>Remove dead code wherever possible. It gets in the way and slows you down.</i> </br></br> <a href=\"https://open-edx-proposals.readthedocs.io/en/latest/oep-0021-proc-deprecation.html\">OEP-0021: Deprecation and Removal</a> defines a clear and agreed upon process for removing legacy code, which we strongly encourage everyone to follow and put into regular practice as part of the normal development lifecyle."
+}

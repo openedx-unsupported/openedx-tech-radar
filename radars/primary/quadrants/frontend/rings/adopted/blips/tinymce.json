@@ -1,0 +1,7 @@
+{
+  "name": "TinyMCE",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "<a href=\" https://www.tiny.cloud/get-tiny/downloads/\">TinyMCE</a> is a Javascript-based rich-text editor, used for allowing users to enter text with rich formatting (as well as adding certain files/images to their submisisons). Used in applications (such as Open Response Assessments) where users wish to be able to submit formatted document-style text content.  Note that we have a plugin to make it easier to mark spans with different lang attributes."
+}
