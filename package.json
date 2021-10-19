@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "import": "node scripts/import.js",
     "export": "node scripts/export.js",
-    "build": "node scripts/export.js"
+    "build": "node scripts/build.js && node scripts/export.js",
+    "lint": "eslint --ext .js ."
   },
   "repository": {
     "type": "git",

@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const fs = require('fs');
 const path = require('path');
 const converter = require('json-2-csv');
@@ -33,7 +34,8 @@ converter.csv2json(csv, (error, blips) => {
 
       // We use slugify to ensure consistent, simple naming.  It strips out spaces, capitals, etc.
       // I don't think we have a use case for non a-z0-9 characters, but it can be tweaked to allow
-      // them if we want/need to.  Note that this doesn't change the displayed "name" of the quadrants, rings, or blips, just the directory/filenames.
+      // them if we want/need to.  Note that this doesn't change the displayed "name" of the
+      // quadrants, rings, or blips, just the directory/filenames.
       const blipPath = path.resolve(
         process.cwd(),
         'radars',
