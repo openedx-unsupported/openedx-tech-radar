@@ -1,8 +1,6 @@
-Open edX Tech Radar
-===================
+# Open edX Tech Radar
 
-Why?
-----
+## Why?
 
 A technology radar serves as a reference and an onboarding tool for the technologies
 used in the Open edX Platform, giving us all deeper insight into the composition and
@@ -22,8 +20,20 @@ engineering organization, so it only makes sense to do this in a collaborative w
 [See Thoughtworks Tech Radar FAQ for more information](https://www.thoughtworks.com/radar/faq), as
 well as this [Open edX Tech Radar document](https://openedx.atlassian.net/wiki/spaces/AC/pages/2844786770/Open+edX+Technology+Radar).
 
-This repo holds the CSV versions of radars initially defined by the Open edX community via the
-[original Tech Radar workshop spreadsheet](https://docs.google.com/spreadsheets/d/1ntg2fy7EBR0TFGktyORyv3W-K1bOmhr5Z4EU6WzdSWE/edit#gid=0).
+This repo holds individual JSON files describing the Open edX Primary Tech Radar, created
+collaboratively by the community in [the original Tech Radar workshop spreadsheet](https://docs.google.com/spreadsheets/d/1ntg2fy7EBR0TFGktyORyv3W-K1bOmhr5Z4EU6WzdSWE/edit#gid=0).
+
 Building a radar from a Google sheet requires users to sign in to Google and give Thoughtworks read access
-to their Google docs. Publishing a CSV in this repo allows us to bypass this, and moving forward will
+to their Google docs. Publishing a CSV from this repo allows us to bypass this, and moving forward will
 give us the ability to make changes to the Radar in a trackable manner.
+
+## How?
+
+This repository includes a few scripts for translating CSV radar definitions into JSON and back
+again.  The build for this repository takes the JSON files in the `radars` sub-directory and
+combines them into CSV files for each radar that's checked in (currently only the "primary" radar)
+
+This CSV is then published to the web, where it can be picked up by https://radar.thoughtworks.com
+and turned into a Tech Radar on the fly.
+
+See the README in `scripts` for more details.
