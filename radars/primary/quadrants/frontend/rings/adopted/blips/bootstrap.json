@@ -1,0 +1,7 @@
+{
+  "name": "Bootstrap",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Powerful industry-standard JS and CSS styling tools, providing sass variables and mixins, a responsive grid system, extensive prebuilt components, and powerful JS plugins.\nThis is the underpinning scaffolding and styling tool library used for much of our Open edX JS/CSS styling."
+}

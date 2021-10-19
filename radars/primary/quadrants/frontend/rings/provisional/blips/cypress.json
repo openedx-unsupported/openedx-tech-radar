@@ -1,0 +1,7 @@
+{
+  "name": "cypress",
+  "ring": "Provisional",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "<a href=\"https://www.cypress.io/how-it-works/\">Cypress</a> is an end-to-end testing package with multi-browser support. We have wanted to make use of Cypress for functional testing of our micro-frontends for some time as a means to round out our test suites, which are primarily Blip: Jest based today. See also <a href=\"Playwright.dev\">Playwright.dev</a> and <a href=\"https://github.com/puppeteer/puppeteer\">Puppeteer</a> as alternatives."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Ubuntu",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A very popular distribution of the Linux kernel and associated code, derived from the volunteer-run Debian distribution but adding commercial support and more frequent releases.  Most Open edX services are intended to be installed on this operating system."
+}

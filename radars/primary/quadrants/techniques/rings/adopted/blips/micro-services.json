@@ -1,0 +1,7 @@
+{
+  "name": "Micro-services",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Using a collection of small services, each dedicated to a specific functionality domain, rather than one monolithic service for an entire site.  Open edX started as a monolithic service but has started implementing more and more functionality in new micro-services to accelerate development and improve maintainability as the platform grows."
+}

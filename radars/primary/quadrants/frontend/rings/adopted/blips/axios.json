@@ -1,0 +1,7 @@
+{
+  "name": "axios",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Promise-based HTTP client to make asynchronous HTTP requests to REST endpoints to perform CRUD operations.  This library is used as the basis for the 'auth' module in Blip: frontend-platform and handles all our API communication between micro-frontends and our backend services.  We use its concept of \"interceptors\" to add request and response handling.  Axios is an integral part of our micro-frontend platform today, and we plan to continue to use it."
+}

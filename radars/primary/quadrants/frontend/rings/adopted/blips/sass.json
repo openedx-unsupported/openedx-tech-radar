@@ -1,0 +1,7 @@
+{
+  "name": "SASS",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "SASS is a preprocessor scripting language that is compiled into CSS which adds features such as variables, nested rules, inline imports, and more.\nThe Open edX platform uses SASS extensively, and because of our usage of Bootstrap 4, relies on it for branding."
+}

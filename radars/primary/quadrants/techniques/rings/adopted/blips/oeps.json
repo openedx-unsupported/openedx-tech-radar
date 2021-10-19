@@ -1,0 +1,7 @@
+{
+  "name": "OEPs",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "OEPs (Open edX Proposals) are a collection of system-wide technology decisions accepted by the Open edX community. They come in the form of best practices, architecture designs, or processes. Inspired by <a href=\"https://www.python.org/dev/peps/pep-0001/\">Python Enhancement Proposals (PEPs)</a>, each OEP provides its use cases and rationales. OEPs are described in <a href=\"https://open-edx-proposals.readthedocs.io/en/latest/oep-0001.html\">OEP-1</a> and published in the <a href=\"https://open-edx-proposals.readthedocs.io/en/latest/index.html\">OEP Index on Read the Docs</a>.</br></br>See 'Blip: ADRs' as an alternative to OEPs for a lighter weight process to document localized technical decisions."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Webpack",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Webpack is a JavaScript module bundler, capable of transforming, building, or packaging almost all front-end assets.  We use webpack extensively in all of our micro-frontends, and in some legacy frontends co-located with their corresponding backends.  Webpack is an industry standard and has proven itself to be very flexible and have a wider variety of available plugins and loaders than other bundlers like rollup or parcel.  We expect to continue to invest in our usage of webpack."
+}

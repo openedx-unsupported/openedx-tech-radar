@@ -1,0 +1,7 @@
+{
+  "name": "Font Awesome",
+  "ring": "Hold",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Font Awesome is a large and heavily maintained free icon library.  Integrates very easily with React UI development.  This is a legacy icon set that we are transitioning away from, but still serves as the basis of our icon library.  Rather than using font-awesome, we are building an Open edX-specific icon set in Blip: Paragon icons, and encourage our frontends to adopt that instead."
+}

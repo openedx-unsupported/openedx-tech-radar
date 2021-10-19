@@ -1,0 +1,7 @@
+{
+  "name": "pytest",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://docs.pytest.org/\">pytest</a> is the Python test framework Open edX uses for automated Python testing.  It is widely adopted through the Python world, and boasts an impressive array of features."
+}

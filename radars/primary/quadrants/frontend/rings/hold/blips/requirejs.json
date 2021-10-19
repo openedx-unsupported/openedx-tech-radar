@@ -1,0 +1,7 @@
+{
+  "name": "requirejs",
+  "ring": "Hold",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "requirejs is a JavaScript file and module loader used in some of our legacy frontends.  It is not used in micro-frontends at all; MFEs use webpack.  We should not use requirejs anymore, and should attempt to remove it in favor of webpack wherever possible."
+}

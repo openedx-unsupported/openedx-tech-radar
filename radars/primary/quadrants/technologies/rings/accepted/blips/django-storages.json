@@ -1,0 +1,7 @@
+{
+  "name": "django-storages",
+  "ring": "Accepted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A package which provides a uniform interface for working with (mainly user-uploaded) files in Django, regardless of where the files are actually stored.  Allows the use of S3 for production AWS deployments, Swift for OpenStack deployments, local files for development and test environments, etc. by just customizing a few settings."
+}

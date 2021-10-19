@@ -1,0 +1,7 @@
+{
+  "name": "yarn",
+  "ring": "Hold",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "An alternative to npm for Javascript package installation. The two have minor differences in speed/performance, security, and implementation. In many of these categories, yarn is slightly ahead of npm, but npm is also keeping pace nicely. There are no current plans to adopt yarn, but it has been posed as an alternative to npm."
+}

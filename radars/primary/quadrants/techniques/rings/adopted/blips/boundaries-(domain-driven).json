@@ -1,0 +1,7 @@
+{
+  "name": "Boundaries (domain driven)",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Defining <b>boundaries</b> is needed to achieve modularity and a decoupled system. Defined boundaries allow us to know the intended responsibilities of components and how they are intended to evolve over time. A component can be a single Python module, a Django app, a Frontend folder, a Plugin, an entire microservice or microfrontend.\n</br></br>\nNot all boundaries are created equal. There are tradeoffs. Business-minded long-term implications for cohesion and coupling need to be considered. See the slides and video from the <a href=\"https://openedx.atlassian.net/wiki/spaces/AC/pages/1287684148/Arch+Study+Group\">2020-09-08 Arch Study workshop on Boundaries</a> for a deeper dive and exercises on this topic.\n</br></br>\nThe <a href=\"https://openedx.atlassian.net/wiki/spaces/AC/pages/1074397222/Architecture+Manifesto+WIP#Clear-Bounded-Contexts\">Clear Bounded Contexts section of the Architecture Manifesto</a> provides additional links for what to consider when defining business-minded boundaries, including Domain-driven Design.\n</br></br>\nFinally, take a look at 'Blip: READMEs' for a technique to document a component's Single Responsibility. "
+}

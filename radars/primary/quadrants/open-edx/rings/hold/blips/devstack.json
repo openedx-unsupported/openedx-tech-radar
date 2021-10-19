@@ -1,0 +1,7 @@
+{
+  "name": "devstack",
+  "ring": "Hold",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "The development environment for Open edX services.  Now based on Blip: Docker containers, it had previously used a Vagrant virtual machine.  Work is planned in the near future to switch to using Blip: Tutor instead for this purpose."
+}

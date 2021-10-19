@@ -1,0 +1,7 @@
+{
+  "name": "edx-bootstrap",
+  "ring": "Hold",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "The edx-bootstrap library is a prior iteration of our Bootstrap theme.  It was folded into more recent versions of Blip: Paragon as of ~2019, and has been deprecated.  It is still in use by some of our legacy frontends, but should be removed when upgrading Paragon to more recent versions."
+}

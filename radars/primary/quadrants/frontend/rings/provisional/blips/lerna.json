@@ -1,0 +1,7 @@
+{
+  "name": "Lerna",
+  "ring": "Provisional",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Lerna is a web-package build tool that optimizes the workflow around maintaining and managing multi-package repositories with git and npm.  We have considered using Lerna in several repositories, such as Paragon.  It has been adopted for a few packages, but is not widely used, as the vast majority of the frontend code is broken up into module/library-specific Git repositories."
+}

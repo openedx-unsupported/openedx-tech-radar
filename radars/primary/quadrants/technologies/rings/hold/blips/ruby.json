@@ -1,0 +1,7 @@
+{
+  "name": "Ruby",
+  "ring": "Hold",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A programming language particularly popular due to the Ruby on Rails web application framework.  Open edX's discussion forums utilize an old fork of a Ruby on Rails forums service, but work is in progress to support pluggable forum implementations that are more actively maintained and/or use technologies more commonly utilized by Open edX."
+}

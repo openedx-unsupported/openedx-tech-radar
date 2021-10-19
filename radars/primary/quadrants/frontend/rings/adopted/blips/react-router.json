@@ -1,0 +1,7 @@
+{
+  "name": "react-router",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "react-router is an industry standard React client-side routing library. It lets you write declarative 'routes' in your frontend that will be rendered without a page refresh when their path matches the path in the URL.  We use this in most of our MFEs, and have found it a very effective way of managing sub-pages within a micro-frontend."
+}

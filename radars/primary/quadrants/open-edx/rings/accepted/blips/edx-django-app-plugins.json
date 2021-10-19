@@ -1,0 +1,7 @@
+{
+  "name": "edX Django app plugins",
+  "ring": "Accepted",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "Python packages which use a framework defined in the edx-django-utils package to be automatically registered with and used by the service they are installed into without needing to change multiple Django settings. This is very useful for optional Open edX features that some installations may choose not to use.  Currently only used in edx-platform, although the framework is designed to also be usable in other IDAs."
+}

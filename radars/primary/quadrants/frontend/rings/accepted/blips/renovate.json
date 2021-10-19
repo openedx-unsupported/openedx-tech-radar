@@ -1,0 +1,7 @@
+{
+  "name": "Renovate",
+  "ring": "Accepted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Renovate is an automated dependency updater for GitHub repositories. Open edX repositories use Renovate to automate updates of frontend packages (the edx-requirements-bot covers Python and other backend packages)."
+}

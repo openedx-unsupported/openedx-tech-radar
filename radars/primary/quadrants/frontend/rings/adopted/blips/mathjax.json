@@ -1,0 +1,7 @@
+{
+  "name": "MathJax",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "JS package that renders MathML to HTML or SVG markup. We are using v2.x, will upgrade to v3.x eventually.  We use this in a number of our frontend repos for math markup (ORA, in particular)."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Ball of Mud",
+  "ring": "Hold",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "We often refer to the edx-platform monolithic repository as a \"ball of mud\", because it lacks clear boundaries and extension points.  This is not a pattern we want to continue, and much of our work is focused on cleaning up the \"ball of mud\" via the techniques in the 'Blip: B.E.E.S' blip."
+}

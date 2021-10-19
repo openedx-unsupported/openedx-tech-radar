@@ -1,0 +1,7 @@
+{
+  "name": "Extensible cores",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "To allow Open edX to solve different problems for different people in the community, having the core software be extensible is essential. Because we have adopted a micro services architecture (See 'Blip:Micro-services'), there is no single core but rather a series of core systems that should each provide extension points to allow for experimentation and innovation at a faster development speed than if all features had to be directly merged into the core systems."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ux-pattern-library",
+  "ring": "Hold",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "The <a href=\"https://github.com/edx/ux-pattern-library\">UX Pattern Library</a> is a prior iteration of a UI library and frontend styleguide for Open edX applications and sites.  Its use has been deprecated in favor of the Blip: Paragon design system.  It has not seen any investment since approximately 2016 and should be removed as a dependency where possible."
+}

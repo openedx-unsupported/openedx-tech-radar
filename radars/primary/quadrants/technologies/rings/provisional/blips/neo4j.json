@@ -1,0 +1,7 @@
+{
+  "name": "neo4j",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://neo4j.com/\">Neo4j</a> is a graph database, currently used for ad hoc queries of course content via CourseGraph."
+}

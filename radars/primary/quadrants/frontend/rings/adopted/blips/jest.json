@@ -1,0 +1,7 @@
+{
+  "name": "Jest",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "Jest is a JavaScript unit testing framework, providing test structures, assertions, powerful mocking functionality, snapshots, and deep coverage reporting.  This powers all of our unit tests in our micro-frontends.  We use it in conjunction with libraries like Blip: testing-library."
+}

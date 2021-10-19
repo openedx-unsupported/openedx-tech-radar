@@ -1,0 +1,7 @@
+{
+  "name": "Code coverage",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Code coverage is used during testing to assess what portions of the code are being exercised by the tests.  It provides information to code authors about gaps in testing, and helps to provide assurance about the correct behavior of the code.\nWe don't have a specific target we are trying to hit. In some repos, we have checks that a pull request has not decreased the total coverage percentage."
+}

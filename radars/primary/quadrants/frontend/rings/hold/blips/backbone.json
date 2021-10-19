@@ -1,0 +1,7 @@
+{
+  "name": "backbone",
+  "ring": "Hold",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "JS UI-creation library present in legacy code systems. It provides a powerful MVC framework, with less focus on small composable code.\nOur legacy JS is written in this architecture, but we are moving away from it as a company, towards React as a framework"
+}

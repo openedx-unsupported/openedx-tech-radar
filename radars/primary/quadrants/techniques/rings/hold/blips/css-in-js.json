@@ -1,0 +1,7 @@
+{
+  "name": "CSS-in-JS",
+  "ring": "Hold",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "CSS-in-JS is a technique - <strong>not currently used by Open edX</strong> - in which styles are embedded into JavaScript-based UI components, rather than being coded into a CSS file.  It is an attractive option in that it promotes modularity by co-locating styling information with the component that needs it, similar to how JSX started co-locating markup with the JavaScript that manipulates it. The decision to use  CSS-in-JS techniques/libraries in the future is complicated by the need to keep our system themeable, and also our hesitancy to replace our Bootstrap-based styling with a completely different system.  Such a change could not possibly happen all at once, in which case we would exist with two separate styling systems for some period of time, which would be pretty problematic."
+}

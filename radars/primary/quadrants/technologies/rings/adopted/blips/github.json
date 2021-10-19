@@ -1,0 +1,7 @@
+{
+  "name": "GitHub",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "Service provider for software development and version control using Git. Github offers the distributed version control and source code management functionality of Git, plus additional features. All Open edX repositories are hosted in Github and most repositories are in the <a href=\"https://github.com/edx\">edx</a> organization, though some are in the <a href=\"https://github.com/openedx\">openedx</a> organization."
+}

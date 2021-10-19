@@ -1,0 +1,7 @@
+{
+  "name": "lodash",
+  "ring": "Accepted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "lodash is a JavaScript utility library providing a wide variety of quality-of-life improvements to working in JS code, particularly utilities for working on strings, objects, and arrays that are available in other languages.  Some of the prominence of this tool has faded as ES6 has brought more power to the base JS syntax.  Our recommendation is to individually install lodash functions in micro-frontends and libraries as necessary, but to avoid installing the entire library at once.  "
+}

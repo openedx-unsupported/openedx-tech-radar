@@ -1,0 +1,7 @@
+{
+  "name": "Github Actions",
+  "ring": "Accepted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A continuous integration system included with GitHub.  Being free for open source projects, relatively inexpensive for private ones, and fairly full-featured, this is now our preferred CI system for most projects."
+}

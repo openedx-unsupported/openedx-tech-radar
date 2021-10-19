@@ -1,0 +1,7 @@
+{
+  "name": "react-test-renderer",
+  "ring": "Provisional",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "react-test-renderer is a testing tool that allows rendering of React components into pure JavaScript objects that can be queried and rendered into snapshots for testing.\nIn particular, this tool is more powerful for rendering hook-based React components than its counterpart (Enzyme). This tool is used to write unit tests in many of our MFEs and Paragon, and is an important tool in our testing strategy."
+}

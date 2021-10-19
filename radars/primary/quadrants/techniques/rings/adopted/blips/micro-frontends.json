@@ -1,0 +1,7 @@
+{
+  "name": "Micro-frontends",
+  "ring": "Adopted",
+  "quadrant": "Techniques",
+  "isNew": "",
+  "description": "Micro-frontends (MFEs) are an approach to developing frontend applications where the site is broken up into domain-specific modules which are then independently deployed and maintained in separate repositories.  This helps establish strong boundaries around these domains and ensures they remain loosely coupled.  The approach is the frontend version of a micro-service architecture.  In the Open edX platform, micro-frontends are purely frontend and contain no backend code.  MFEs communicate with backend services via RESTful APIs (generally), and share some foundational libraries like frontend-build, frontend-platform, and paragon.  A downside of this approach is that each MFE bundles its own third-party dependencies, so there is some code duplication and redundant assets as a user navigates around the site from MFE to MFE.  We've found the micro-frontend approach to have a very positive effect on developer velocity and our ability to continuously deploy our frontends.  We are in the process of replatforming all \"legacy\" frontends to be micro-frontends."
+}

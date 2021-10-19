@@ -1,0 +1,7 @@
+{
+  "name": "frontend-platform",
+  "ring": "Adopted",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "<a href=\"https://github.com/edx/frontend-platform\">frontend-platform</a> is an application framework used as the basis for all Open edX micro-frontends.  It provides an application initialization lifecycle, a number of foundational services (analytics, authentication, logging, i18n), and helpful React components.  "
+}

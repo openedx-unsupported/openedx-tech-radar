@@ -1,0 +1,7 @@
+{
+  "name": "memcached",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"http://memcached.org/\">Memcached</a> is a key-value cache server, used to enhance performance. Also used by some services to store session data."
+}

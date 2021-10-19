@@ -1,0 +1,7 @@
+{
+  "name": "reStructured Text",
+  "ring": "Adopted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href=\"https://en.wikipedia.org/wiki/ReStructuredText\">ReStructured Text</a> is a markup format similar in spirit to Markdown. Open edX uses it for documentation, including OEPs, ADRs, and README files.  It includes a breadth of capabilities that let it scale well across those different uses."
+}

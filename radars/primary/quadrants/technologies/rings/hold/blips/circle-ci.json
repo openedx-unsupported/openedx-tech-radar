@@ -1,0 +1,7 @@
+{
+  "name": "Circle CI",
+  "ring": "Hold",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "A continuous integration system which has been popular with some Open edX community members for running tests that edX.org runs in Jenkins.  May be losing usage in favor of Blip: GitHub Actions."
+}

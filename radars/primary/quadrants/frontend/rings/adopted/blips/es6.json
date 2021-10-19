@@ -1,0 +1,7 @@
+{
+  "name": "ES6",
+  "ring": "Adopted",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "ECMAScript 6 is a version of the ECMAScript standard, providing many advanced syntax and capabilities to modern JS development, including the const/let keywords, class syntax, object destructuring, and more.  All of our modern JS is written in this standard.\n\nOur legacy frontends do not necessarily make use of the syntax improvements and capabilities of ES6, partly because of our outdated build processes in those libraries.  We would like to be able to use modern syntax (supported by Blip: babel) in all our frontends to increase developer velocity and happiness, and improve the readability and quality of our code."
+}

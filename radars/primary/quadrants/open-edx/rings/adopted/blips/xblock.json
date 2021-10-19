@@ -1,0 +1,7 @@
+{
+  "name": "XBlock",
+  "ring": "Adopted",
+  "quadrant": "Open edX",
+  "isNew": "",
+  "description": "Each course is built as a tree of <a href=\"https://github.com/edx/XBlock\">XBlocks</a>. An XBlock is a specified as a component architecture and allows new courseware experiences to be implemented and plugged into edx-platform for use by all courses - and more generically by any platform that defines an XBlock runtime. Each edx-platform XBlock is implemented as a separate Github repository, which contains both server-side and browser-side code."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "PostgreSQL",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "The most popular relational database for most Django projects other than Open edX, <a href=\"https://www.postgresql.org/\">PostgreSQL</a> offers much of the functionality that Open edX currently uses MongoDB and Elasticsearch for. PostgreSQL has been successfully used by some Open edX installations, but isn't officially supported (primarily because it wasn't supported by Amazon's RDS when edx.org was first lauched)."
+}
