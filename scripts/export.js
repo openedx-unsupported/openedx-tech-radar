@@ -17,8 +17,8 @@ const options = commandLineArgs(optionDefinitions);
 // These 'sort values' are used in a sort function to order our rings and quadrants correctly.
 // Lower values should be shown first.
 const ringSortValues = {
-  accepted: 0,
-  adopted: 1,
+  adopted: 0,
+  accepted: 1,
   provisional: 2,
   hold: 3,
 };
