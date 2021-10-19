@@ -85,7 +85,7 @@ try {
       const distPath = path.resolve(process.cwd(), 'dist');
       // This ensures all our directories exist before we try to write the file.
       fs.mkdirSync(distPath, { recursive: true });
-      fs.writeFileSync(path.resolve(process.cwd(), 'dist', `Open edX ${radar} Radar.csv`), data);
+      fs.writeFileSync(path.resolve(process.cwd(), 'dist', `open-edx-${radar}-radar.csv`), data);
     });
   });
 } catch (err) {
