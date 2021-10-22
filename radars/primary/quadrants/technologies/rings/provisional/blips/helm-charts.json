@@ -1,7 +1,0 @@
-{
-  "name": "Helm Charts",
-  "ring": "Provisional",
-  "quadrant": "Technologies",
-  "isNew": "",
-  "description": "Helm Charts are Kubernetes YAML manifests combined into a single package. edX.org uses many open source helm charts so they can easily deploy and update services into their Kubernetes clusters. In addition edX.org has experimented with creating their own charts to ensure we consistently deploy Django services."
-}
