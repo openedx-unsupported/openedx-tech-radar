@@ -1,6 +1,6 @@
 {
   "name": "celery-utils",
-  "ring": "Provisional",
+  "ring": "Accepted",
   "quadrant": "Open edX",
   "isNew": "",
   "description": "<a href=\"https://github.com/edx/edx-celeryutils\">celery-utils</a> is an Open edX Python module hosted in Github which contains common code across multiple Celery tasks used in Open edX to provide common features such as logging, error recovery, and Django management commands which perform common tasks such as re-running failed tasks and deleting old tasks."
