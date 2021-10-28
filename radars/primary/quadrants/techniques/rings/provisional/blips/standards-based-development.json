@@ -1,7 +1,0 @@
-{
-  "name": "Standards-based Development",
-  "ring": "Provisional",
-  "quadrant": "Techniques",
-  "isNew": "",
-  "description": "Developing against widely-adopted web and industry standards has a number of benefits.  It allows us to take advantage of work done by our colleagues in the industry, reducing our own maintenance burden, and also promotes interoperability with other platforms and adoptability of the Open edX platform itself.  Examples of standards we have or will develop against include: LTI, xAPI/Caliper, RESTful APIs, Common Cartridge, Flux Standard Actions, OAuth, etc."
-}

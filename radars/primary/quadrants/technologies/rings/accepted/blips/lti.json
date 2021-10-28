@@ -1,0 +1,7 @@
+{
+  "name": "LTI",
+  "ring": "Accepted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "An edtech standard, <a href='https://www.imsglobal.org/activity/learning-tools-interoperability'>LTI (Learning Tools Interoperability)</a> is a standard defined by the IMS Global Consortium and implemented within Open edX. LTI specifies a method for our platform to invoke and communicate with external educational resources."
+}

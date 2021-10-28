@@ -1,0 +1,7 @@
+{
+  "name": "xAPI",
+  "ring": "Accepted",
+  "quadrant": "Technologies",
+  "isNew": "",
+  "description": "<a href='https://xapi.com/overview/'>xAPI</a> is an edtech API specification that Open edX has implemented. This API enables platforms like Open edX to communicate with other learning systems in order to track all types of learning experiences."
+}
