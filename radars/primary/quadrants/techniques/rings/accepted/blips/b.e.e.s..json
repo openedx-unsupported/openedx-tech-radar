@@ -1,6 +1,6 @@
 {
   "name": "B.E.E.S.",
-  "ring": "Adopted",
+  "ring": "Accepted",
   "quadrant": "Techniques",
   "isNew": "",
   "description": "While the <a href=\"https://openedx.atlassian.net/wiki/spaces/AC/pages/1074397222/Architecture+Manifesto+WIP\">Architecture Manifesto</a> provides long-term principles for our technical architecture, B.E.E.S. is a mnemonic acronym for the 4-pillar architecture strategy that will lead us to our vision: an extensible distibuted system that supports long-term innovative growth.\n</br></br><ol>\n<li><b>Boundaries</b> - see 'Blip: Boundaries (domain-driven)'</li>\n<li><b>Extensions</b> - see 'Blip: Extensible Cores'</li>\n<li><b>Events</b> - see 'Blip: Event-driven Architecture'</li>\n<li><b>Standards</b> - see 'Blip: Standards-based Development'</li>\n</ol>\n</br>See the <a href=\"https://docs.google.com/presentation/d/1Tm-Ha1rc8Ifj8UDMhhUiQ8Rk55zRDTZJkDcoq8lUsHc/edit\">Arch B.E.E.S. slides</a>, including speaker notes, for more information.\n</br></br>We are moving forward on all 4 simultaneously through active efforts on our <a href=\"https://openedx.atlassian.net/wiki/spaces/AC/pages/1812037671/FY21+Architecture+User+Story+Roadmap\">architecture roadmap</a>."
