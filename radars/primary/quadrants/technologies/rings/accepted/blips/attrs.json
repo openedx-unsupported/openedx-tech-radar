@@ -1,6 +1,6 @@
 {
   "name": "attrs",
-  "ring": "Adopted",
+  "ring": "Accepted",
   "quadrant": "Technologies",
   "isNew": "",
   "description": "<a href=\"https://www.attrs.org/\">attrs</a> is a Python library for writing classes with minimal boilerplate.  It inspired the dataclasses module in the Python standard library, but is more full-featured.  Attrs is widely considered the best-practice library for minimal-boilerplate classes.\nAttrs is best to use when a class is a passive container of data, but is also a good foundation to build on for active mutable objects."
