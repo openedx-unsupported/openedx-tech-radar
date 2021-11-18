@@ -14,15 +14,6 @@ const optionDefinitions = [
 
 const options = commandLineArgs(optionDefinitions);
 
-// These 'sort values' are used in a sort function to order our rings and quadrants correctly.
-// Lower values should be shown first.
-const ringSortValues = {
-  adopted: 0,
-  accepted: 1,
-  provisional: 2,
-  hold: 3,
-};
-
 const quadrantSortValues = {
   techniques: 0,
   frontend: 1,
@@ -61,22 +52,14 @@ try {
     // quadrant ordering may be non-deterministic.
     quadrants.sort((a, b) => quadrantSortValues[a] - quadrantSortValues[b]);
     quadrants.forEach(quadrant => {
-      const ringsPath = path.resolve(quadrantsPath, quadrant, 'rings');
-      const rings = fs.readdirSync(ringsPath);
-      // This sorts the rings in place according to the ordering above.  Without this our
-      // ring ordering may be non-deterministic.
-      rings.sort((a, b) => ringSortValues[a] - ringSortValues[b]);
-      rings.forEach(ring => {
-        const blipsPath = path.resolve(ringsPath, ring, 'blips');
-        const blips = fs.readdirSync(blipsPath);
-        // This will just sort the blips alphabetically.  Whether this is the right ordering is up
-        // for debate.
-        blips.sort();
-        blips.forEach(blip => {
-          const blipPath = path.resolve(blipsPath, blip);
-          const blipData = require(blipPath);
-          radarJson.push(blipData);
-        });
+      const blipsPath = path.resolve(quadrantsPath, quadrant, 'blips');
+      const blips = fs.readdirSync(blipsPath);
+      // This will sort the blips alphabetically, regardless of ring.
+      blips.sort();
+      blips.forEach(blip => {
+        const blipPath = path.resolve(blipsPath, blip);
+        const blipData = require(blipPath);
+        radarJson.push(blipData);
       });
     });
 
