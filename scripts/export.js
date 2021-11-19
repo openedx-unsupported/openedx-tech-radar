@@ -21,7 +21,7 @@ const quadrantSortValues = {
   'open-edx': 3,
 };
 
-// NOTE how the keys here are capitalized now, since they need to match the blip's `ring` value instead of the directory name.
+// The keys here are capitalized now, since they need to match the blip's ring value
 const ringSortValues = {
   Adopted: 0,
   Accepted: 1,
