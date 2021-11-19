@@ -21,6 +21,14 @@ const quadrantSortValues = {
   'open-edx': 3,
 };
 
+// NOTE how the keys here are capitalized now, since they need to match the blip's `ring` value instead of the directory name.
+const ringSortValues = {
+  Adopted: 0,
+  Accepted: 1,
+  Provisional: 2,
+  Hold: 3,
+};
+
 const radarsPath = path.resolve(process.cwd(), 'radars');
 
 // This block iterates over the radar directories and descends through their quadrants, rings, and
@@ -56,11 +64,14 @@ try {
       const blips = fs.readdirSync(blipsPath);
       // This will sort the blips alphabetically, regardless of ring.
       blips.sort();
+      const blipJson = [];
       blips.forEach(blip => {
         const blipPath = path.resolve(blipsPath, blip);
         const blipData = require(blipPath);
-        radarJson.push(blipData);
+        blipJson.push(blipData);
       });
+      blipJson.sort((a, b) => ringSortValues[a.ring] - ringSortValues[b.ring]);
+      radarJson.push(...blipJson);
     });
 
     // Thank you, json-2-csv, for making the CSV generation dead simple.
