@@ -1,7 +1,7 @@
 {
     "name": "Tech Radar",
     "ring": "Provisional",
-    "quadrant": "Open edX",
+    "quadrant": "Techniques",
     "isNew": "",
     "description": "The Tech Radar is a living document that records our technology decisions as they change over time, evaluating their level of adoption and suitability to the Open edX platform’s needs. More information can be found <a href=\"https://openedx.atlassian.net/wiki/spaces/AC/pages/2844786770/Open+edX+Technology+Radar\">here</a>."
   }
