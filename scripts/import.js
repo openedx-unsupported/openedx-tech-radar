@@ -42,8 +42,6 @@ converter.csv2json(csv, (error, blips) => {
         options.name,
         'quadrants',
         `${slugify(blip.quadrant, { lower: true })}`,
-        'rings',
-        `${slugify(blip.ring, { lower: true })}`,
         'blips',
       );
       // Make sure that the directory exists before trying to write the file.

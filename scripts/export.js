@@ -16,18 +16,19 @@ const options = commandLineArgs(optionDefinitions);
 
 // These 'sort values' are used in a sort function to order our rings and quadrants correctly.
 // Lower values should be shown first.
-const ringSortValues = {
-  adopted: 0,
-  accepted: 1,
-  provisional: 2,
-  hold: 3,
-};
-
 const quadrantSortValues = {
   techniques: 0,
   frontend: 1,
   technologies: 2,
   'open-edx': 3,
+};
+
+// The keys here are capitalized now, since they need to match the blip's ring value
+const ringSortValues = {
+  Adopted: 0,
+  Accepted: 1,
+  Provisional: 2,
+  Hold: 3,
 };
 
 const radarsPath = path.resolve(process.cwd(), 'radars');
@@ -61,23 +62,18 @@ try {
     // quadrant ordering may be non-deterministic.
     quadrants.sort((a, b) => quadrantSortValues[a] - quadrantSortValues[b]);
     quadrants.forEach(quadrant => {
-      const ringsPath = path.resolve(quadrantsPath, quadrant, 'rings');
-      const rings = fs.readdirSync(ringsPath);
-      // This sorts the rings in place according to the ordering above.  Without this our
-      // ring ordering may be non-deterministic.
-      rings.sort((a, b) => ringSortValues[a] - ringSortValues[b]);
-      rings.forEach(ring => {
-        const blipsPath = path.resolve(ringsPath, ring, 'blips');
-        const blips = fs.readdirSync(blipsPath);
-        // This will just sort the blips alphabetically.  Whether this is the right ordering is up
-        // for debate.
-        blips.sort();
-        blips.forEach(blip => {
-          const blipPath = path.resolve(blipsPath, blip);
-          const blipData = require(blipPath);
-          radarJson.push(blipData);
-        });
+      const blipsPath = path.resolve(quadrantsPath, quadrant, 'blips');
+      const blips = fs.readdirSync(blipsPath);
+      // This will sort the blips alphabetically, regardless of ring.
+      blips.sort();
+      const blipJson = [];
+      blips.forEach(blip => {
+        const blipPath = path.resolve(blipsPath, blip);
+        const blipData = require(blipPath);
+        blipJson.push(blipData);
       });
+      blipJson.sort((a, b) => ringSortValues[a.ring] - ringSortValues[b.ring]);
+      radarJson.push(...blipJson);
     });
 
     // Thank you, json-2-csv, for making the CSV generation dead simple.
