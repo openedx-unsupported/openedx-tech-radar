@@ -14,6 +14,8 @@ const optionDefinitions = [
 
 const options = commandLineArgs(optionDefinitions);
 
+// These 'sort values' are used in a sort function to order our rings and quadrants correctly.
+// Lower values should be shown first.
 const quadrantSortValues = {
   techniques: 0,
   frontend: 1,
