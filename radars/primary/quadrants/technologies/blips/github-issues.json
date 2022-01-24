@@ -1,0 +1,7 @@
+{
+  "name": "GitHub Issues",
+  "ring": "Provisional",
+  "quadrant": "Technologies",
+  "isNew": "TRUE",
+  "description": "Historically Open edX issue tracking was intertwined with edX internal issue tracking in Jira.  As edX moves onto 2U internal infrastructure, the Open edX community needs a way to track issues (DEPR,bugs, feature requests) for the Open edX platform.  We will enable GitHub Issues on a subset of Open edX repos as a part of recent updates to the DEPR process to learn more about whether or not GitHub issues meets our needs. Based on early experiences in the BTR working group and our overall desire to improve locality of information closer to the code we believe GitHub issues is a good initial tool to trial to solve this problem."
+}
