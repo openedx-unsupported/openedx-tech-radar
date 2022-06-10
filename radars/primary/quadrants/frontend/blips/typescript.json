@@ -1,7 +1,7 @@
 {
-  "name": "Typescript",
-  "ring": "Hold",
+  "name": "TypeScript",
+  "ring": "Provisional",
   "quadrant": "Frontend",
   "isNew": "",
-  "description": "TypeScript is a strict syntactical superset of JavaScript, adding optional static typing to the language. TypeScript requires architectural support and that all associated code is updated to the new paradigm, which can be costly.  Some providers in the community favor TypeScript, but we do not currently use it, and have no plans to start.  For consistency and the approachability of our codebase, we'd recommend using ES6 unless there is a very compelling reason to adopt TypeScript."
+  "description": "TypeScript is a strict syntactical superset of JavaScript, adding optional static typing to the language. TypeScript may require architectural support; however, it can be configured to allow migration on a file-by-file basis rather than converting to the new paradigm all at once. Some providers in the community are known to favor TypeScript. We recommend that component maintainers consider using TypeScript where static typing is most valuable (e.g., JS libaries, data model layer), rather than opting to refactor all existing JavaScript to TypeScript unless there is demonstrated value in doing so."
 }
