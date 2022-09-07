@@ -3,5 +3,5 @@
   "ring": "Provisional",
   "quadrant": "Open edX",
   "isNew": "",
-  "description": "<a href=\"https://github.com/edx/blockstore\">Blockstore</a> is a learning objects repository developed for the next version of content libraries, and intended as a long term replacement for modulestore."
+  "description": "<a href=\"https://github.com/openedx/blockstore\">Blockstore</a> is a learning objects repository developed for the next version of content libraries, and intended as a long term replacement for modulestore."
 }
