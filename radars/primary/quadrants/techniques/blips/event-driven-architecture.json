@@ -3,5 +3,5 @@
   "ring": "Provisional",
   "quadrant": "Techniques",
   "isNew": "",
-  "description": "The Open edX platform will be implementing more and more best practices of an Event-Driven Architecture. See <a href=\"https://github.com/edx/open-edx-proposals/blob/master/oeps/architectural-decisions/oep-0041-arch-async-server-event-messaging.rst\">OEP-41: Asynchronous Server Event Message Format</a> for more details, including a discussion of benefits such as: eliminating blocking, synchronous requests, eliminating expensive batch synchronization, reducing the need for plugins, and simplifying integration to external systems. It is likely that a new Event Bus technology will soon be added to the radar."
+  "description": "The Open edX platform will be implementing more and more best practices of an Event-Driven Architecture. See <a href=\"https://github.com/openedx/open-edx-proposals/blob/master/oeps/architectural-decisions/oep-0041-arch-async-server-event-messaging.rst\">OEP-41: Asynchronous Server Event Message Format</a> for more details, including a discussion of benefits such as: eliminating blocking, synchronous requests, eliminating expensive batch synchronization, reducing the need for plugins, and simplifying integration to external systems. It is likely that a new Event Bus technology will soon be added to the radar."
 }

@@ -3,5 +3,5 @@
   "ring": "Accepted",
   "quadrant": "Technologies",
   "isNew": "",
-  "description": "Markdown is a lightweight markup language commonly used in the JavaScript ecosystem.  While our standard for documentation is RST as documented in <a href=\"https://github.com/edx/open-edx-proposals/blob/master/oeps/oep-0019-bp-developer-documentation.rst#format\">OEP-19</a>, we've found that Markdown is the only option in some specific cases in our frontend ecosystem. The Paragon and frontend-platform docs sites in particular both utilize Markdown because RST-based tooling didn't exist to generate those sites."
+  "description": "Markdown is a lightweight markup language commonly used in the JavaScript ecosystem.  While our standard for documentation is RST as documented in <a href=\"https://github.com/openedx/open-edx-proposals/blob/master/oeps/oep-0019-bp-developer-documentation.rst#format\">OEP-19</a>, we've found that Markdown is the only option in some specific cases in our frontend ecosystem. The Paragon and frontend-platform docs sites in particular both utilize Markdown because RST-based tooling didn't exist to generate those sites."
 }

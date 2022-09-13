@@ -3,5 +3,5 @@
   "ring": "Hold",
   "quadrant": "Open edX",
   "isNew": "",
-  "description": "The <a href=\"https://github.com/edx/edx-ui-toolkit\">UI Toolkit</a> is a prior iteration of a UI component library.  It has been deprecated in favor of the Paragon design system, and is only in use in some of our legacy frontends.  Micro-frontends do not use it at all."
+  "description": "The <a href=\"https://github.com/openedx/edx-ui-toolkit\">UI Toolkit</a> is a prior iteration of a UI component library.  It has been deprecated in favor of the Paragon design system, and is only in use in some of our legacy frontends.  Micro-frontends do not use it at all."
 }
