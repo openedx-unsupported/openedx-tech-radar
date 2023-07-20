@@ -1,0 +1,7 @@
+{
+  "name": "style-dictionary",
+  "ring": "Provisional",
+  "quadrant": "Frontend",
+  "isNew": "",
+  "description": "A build system for creating cross-platform styles through design tokens. Used by Paragon design component and React component library, amongst other projects."
+}
