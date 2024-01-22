@@ -1,7 +1,0 @@
-{
-  "name": "Bok Choy",
-  "ring": "Hold",
-  "quadrant": "Open edX",
-  "isNew": "",
-  "description": "An Open edX-written Python library for making brower automation tests using the Selenium framework easier to write and more reliable. Now primarily used for end-to-end tests, which are starting to migrate to Blip: cypress instead."
-}
